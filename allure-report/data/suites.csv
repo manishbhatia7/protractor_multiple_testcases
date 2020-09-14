@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 14 16:44:31 IST 2020","Mon Sep 14 16:44:33 IST 2020","1342","","Multiple Tests","","Multiple Tests","Digest Authentication","Digest Authentication",""
+"passed","Mon Sep 14 16:44:21 IST 2020","Mon Sep 14 16:44:30 IST 2020","9221","","Multiple Tests","","Multiple Tests","File Upload","File Upload",""
+"passed","Mon Sep 14 16:44:30 IST 2020","Mon Sep 14 16:44:31 IST 2020","1203","","Multiple Tests","","Multiple Tests","Right Click","Right Click",""
+"passed","Mon Sep 14 16:44:33 IST 2020","Mon Sep 14 16:44:40 IST 2020","7660","","Multiple Tests","","Multiple Tests","Basic Jquery Operations","Basic Jquery Operations",""

@@ -1,0 +1,46 @@
+{
+  "uid" : "a9c08685bb1f8abc",
+  "name" : "Digest Authentication",
+  "fullName" : "Multiple Tests.Digest Authentication",
+  "historyId" : "cc063eff77512b57ce2371c6707fdab9",
+  "time" : {
+    "start" : 1600082071814,
+    "stop" : 1600082073156,
+    "duration" : 1342
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Digest Authentication"
+  }, {
+    "name" : "package",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9c08685bb1f8abc.json",
+  "parameterValues" : [ ]
+}

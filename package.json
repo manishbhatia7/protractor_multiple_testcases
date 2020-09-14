@@ -1,0 +1,32 @@
+{
+  "name": "multiple_programs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "3.5.11",
+    "@types/jasminewd2": "2.0.8",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "config.ts": "^1.0.0",
+    "cucumber": "^6.0.5",
+    "cucumber-pretty": "^6.0.0",
+    "cucumber-tsflow": "^3.2.0",
+    "jasmine": "3.5.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "path": "^0.12.7",
+    "protractor-cucumber-framework": "^6.2.1",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/cucumber": "^6.0.1",
+    "@types/jasminewd2": "2.0.8",
+    "@types/node": "^14.0.13",
+    "authenticator-browser-extension": "^1.4.4",
+    "protractor": "^7.0.0",
+    "ts-node": "^8.10.2"
+  }
+}

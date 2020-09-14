@@ -1,0 +1,46 @@
+{
+  "uid" : "7ae1fc308dacd72a",
+  "name" : "Basic Jquery Operations",
+  "fullName" : "Multiple Tests.Basic Jquery Operations",
+  "historyId" : "7a301d26d749725d60cb59f2331b5e13",
+  "time" : {
+    "start" : 1600082073156,
+    "stop" : 1600082080816,
+    "duration" : 7660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Basic Jquery Operations"
+  }, {
+    "name" : "package",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ae1fc308dacd72a.json",
+  "parameterValues" : [ ]
+}

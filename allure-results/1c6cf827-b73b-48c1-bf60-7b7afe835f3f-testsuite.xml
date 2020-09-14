@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600082061389' stop='1600082080817'>
+    <name>Multiple Tests</name>
+    <title>Multiple Tests</title>
+    <test-cases>
+        <test-case start='1600082061389' status='passed' stop='1600082070610'>
+            <name>File Upload</name>
+            <title>File Upload</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1600082070610' status='passed' stop='1600082071813'>
+            <name>Right Click</name>
+            <title>Right Click</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1600082071814' status='passed' stop='1600082073156'>
+            <name>Digest Authentication</name>
+            <title>Digest Authentication</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1600082073156' status='passed' stop='1600082080816'>
+            <name>Basic Jquery Operations</name>
+            <title>Basic Jquery Operations</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

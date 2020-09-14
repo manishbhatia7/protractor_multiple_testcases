@@ -1,0 +1,46 @@
+{
+  "uid" : "11bcbf37c435e385",
+  "name" : "File Upload",
+  "fullName" : "Multiple Tests.File Upload",
+  "historyId" : "772c55d67d223051e93b22c36e771d27",
+  "time" : {
+    "start" : 1600082061389,
+    "stop" : 1600082070610,
+    "duration" : 9221
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "File Upload"
+  }, {
+    "name" : "package",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11bcbf37c435e385.json",
+  "parameterValues" : [ ]
+}

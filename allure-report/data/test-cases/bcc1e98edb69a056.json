@@ -1,0 +1,46 @@
+{
+  "uid" : "bcc1e98edb69a056",
+  "name" : "Right Click",
+  "fullName" : "Multiple Tests.Right Click",
+  "historyId" : "6f7269fdd54e1a0a532d12bbd51dbba3",
+  "time" : {
+    "start" : 1600082070610,
+    "stop" : 1600082071813,
+    "duration" : 1203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Right Click"
+  }, {
+    "name" : "package",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcc1e98edb69a056.json",
+  "parameterValues" : [ ]
+}

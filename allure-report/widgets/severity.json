@@ -1,0 +1,41 @@
+[ {
+  "uid" : "11bcbf37c435e385",
+  "name" : "File Upload",
+  "time" : {
+    "start" : 1600082061389,
+    "stop" : 1600082070610,
+    "duration" : 9221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9c08685bb1f8abc",
+  "name" : "Digest Authentication",
+  "time" : {
+    "start" : 1600082071814,
+    "stop" : 1600082073156,
+    "duration" : 1342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ae1fc308dacd72a",
+  "name" : "Basic Jquery Operations",
+  "time" : {
+    "start" : 1600082073156,
+    "stop" : 1600082080816,
+    "duration" : 7660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcc1e98edb69a056",
+  "name" : "Right Click",
+  "time" : {
+    "start" : 1600082070610,
+    "stop" : 1600082071813,
+    "duration" : 1203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
